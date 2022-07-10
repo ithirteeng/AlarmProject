@@ -62,7 +62,7 @@ class AlarmActivity : ComponentActivity() {
     }
 
     @Composable
-    private fun ShowSnackbar() {
+    private fun ShowSnackbar2() {
         Snackbar(
             elevation = 6.dp,
             modifier = Modifier.padding(10.dp)
