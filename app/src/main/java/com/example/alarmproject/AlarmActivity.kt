@@ -97,10 +97,5 @@ class AlarmActivity : ComponentActivity() {
     }
 
 
-    @Preview
-    @Composable
-    private fun SnackBarPreview() {
-        ShowSnackbar()
-    }
 }
 
